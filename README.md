@@ -7,7 +7,7 @@ We have used the model architecture presented in the paper " Attention is all yo
 
 
 
-The model architecture has been built from scratch using PyTorh and trained on Kaggle GPU P100 for 10 epochs. The training time took over 5 hours 15 minutes on the above dataset of size 277451 sentence pairs.
+The model architecture has been built from scratch using PyTorch and trained on Kaggle GPU P100 for 10 epochs. The training time took over 5 hours 15 minutes on the above dataset of size 277451 sentence pairs.
 
 The model achieved a BLEU score of 53.58 evaluated on a test dataset of 10k sentence pairs.
 
