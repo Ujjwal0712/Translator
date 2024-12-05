@@ -1,5 +1,5 @@
 # Translator
-I along with my partner Vinay , has implemented a Transformer based English to German Translator.
+I have implemented a Transformer based English to German Translator.
 The model is trained on the Tab-delimited Bilingual Sentence Pairs dataset. These are selected sentence pairs from the Tatoeba Project.
 The dataset can be found at http://www.manythings.org/anki/
 
